@@ -1,5 +1,5 @@
-INGREDIENTS
-for chicken
+# INGREDIENTS
+## for chicken
 1 tablespoonvegetable oil
 10 gramsgarlic (grated)
 10 gramsginger (grated)
