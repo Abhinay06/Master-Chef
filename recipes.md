@@ -1,15 +1,17 @@
 # INGREDIENTS
 ## for chicken
-1 tablespoonvegetable oil
-10 gramsgarlic (grated)
-10 gramsginger (grated)
-1serrano chili peppers (to taste, minced)
-5 gramsmint (finely chopped)
-10 gramscilantro (finely chopped
-1 tablespoongaram masala
-1/2 teaspoonground cinnamon 
-1 teaspoonsalt
-900 gramsbone-in skin-on chicken thighs
+<ul>
+  <li>1 tablespoonvegetable oil</li>
+<li>10 gramsgarlic (grated)</li>
+<li>10 gramsginger (grated)</li>
+<li>1serrano chili peppers (to taste, minced)</li>
+<li>5 gramsmint (finely chopped)</li>
+<li>10 gramscilantro (finely chopped</li>
+<li>1 tablespoongaram masala</li>
+<li>1/2 teaspoonground cinnamon </li>
+<li>1 teaspoonsalt</li>
+<li>900 gramsbone-in skin-on chicken thighs</li>
+</ul>
 
 # FOR RICE
 6 cupswater
