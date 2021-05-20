@@ -14,19 +14,23 @@
 </ul>
 
 # FOR RICE
-6 cupswater
-2 1/2 teaspoonssalt
-5pods green cardamom (smashed)
-1 teaspooncumin seeds
-1bay leaf
-360 gramsbasmati rice (~2 cups)
-for onions
-2 tablespoonghee
-2medium onions (sliced thin)
+<ul>
+<li>6 cupswater</li>
+<li>2 1/2 teaspoonssalt</li>
+<li>5pods green cardamom (smashed)</li>
+<li>1 teaspooncumin seeds</li>
+<li>1bay leaf</li>
+<li>360 gramsbasmati rice (~2 cups)</li>
+<li>for onions</li>
+<li>2 tablespoonghee</li>
+<li>2medium onions (sliced thin)</li>
+</ul>
 
 # FOR BIRYANI
-1 cupreserved boiling liquid (from rice)
-1/2 teaspoonsaffron threadscilantro (for garnish)
+<ul>
+  <li>1 cupreserved boiling liquid (from rice)</li>
+  <li>1/2 teaspoonsaffron threadscilantro (for garnish)</li>
+</ul>
 
 # STEPS
 
